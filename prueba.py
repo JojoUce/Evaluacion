@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-st.title('Conteo de Votos')
+st.title('Predicción Electoral')
 
 # Función para contar votos
 def contar_votos(df):
